@@ -1,0 +1,4 @@
+check_sql_injection 为l4yn3写着玩的自动检测php代码的sql injection的一个python脚本，还有很多功能没完成，比如自动识别类，函数和包含等。
+
+
+
