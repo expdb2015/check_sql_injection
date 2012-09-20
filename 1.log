@@ -1,0 +1,1 @@
+E:/python/pytest\test.php---line 13£º$result=$db->query("SELECT * FROM `xcar_topic_users_jilu` WHERE `topicid` =8 and `id` ='".$id."' and `ids` = {$ids}  ")
